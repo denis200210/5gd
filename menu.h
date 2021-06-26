@@ -1,8 +1,5 @@
 #include <utility>
 
-//
-// Created by YKROPCHIK on 11.04.2020.
-//
 
 enum Sizes {
     small = 25, medium = 30, large = 35, extraLarge = 40
